@@ -1,15 +1,4 @@
-# Teste de seleção para vaga de Java
 
-## Faça um fork desse projeto e siga as instruções a seguir utilizando esse projeto.
-
-# Pré-requisitos
-
-Implementar apenas a API (Backend)
-Versão Java +8 (caso seja Java 8, verificar compatibilidade da sua IDE)
-Versão Spring Boot >= 2.4
-Banco de dados fica a seu critério (Sql, NoSql)
-Seu projeto deve obrigatoriamente ter as anotações: @Repository, @Entity e @Controller
-Documentação mínima da API (Swagger ou documento PDF)
 
 # Objetivo
 Implementar para empresa de transporte de cargas SigaBem o endpoint para o cálculo do preço do frete:
